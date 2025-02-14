@@ -1,4 +1,9 @@
-## Hi there 👋
+## Howdy! 👋
+
+- 🔭 I’m currently working on building a budgeting app for my teenage daughter
+- 🌱 I’m currently learning Blazor, ReactJS, Typescript...
+- 👯 I’m looking to collaborate on anything fun!
+- ⚡ Fun fact: I can recognize the make and model of almost any vehicle. I don't know how and I don't know why. The human brain never ceases to amaze me 💫
 
 <!--
 **lwtech-diannes/lwtech-diannes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
