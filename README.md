@@ -1,7 +1,7 @@
 ## Howdy! 👋
 
 - 🔭 I’m currently working on building a budgeting app for my teenage daughter
-- 🌱 I’m currently learning Blazor, ReactJS, Typescript...
+- 🌱 I’m currently learning Blazor, ReactJS, Typescript... and sharpening my knowledge of C#, .NET, Java, C++, etc.
 - 👯 I’m looking to collaborate on anything fun!
 - ⚡ Fun fact: I can recognize the make and model of almost any vehicle. I don't know how and I don't know why. The human brain never ceases to amaze me 💫
 
